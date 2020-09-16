@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SimpleReactCounterApp/static/css/main.2ba6874d.chunk.css",
+    "main.js": "/SimpleReactCounterApp/static/js/main.88cf99ca.chunk.js",
+    "main.js.map": "/SimpleReactCounterApp/static/js/main.88cf99ca.chunk.js.map",
+    "runtime-main.js": "/SimpleReactCounterApp/static/js/runtime-main.c1f63711.js",
+    "runtime-main.js.map": "/SimpleReactCounterApp/static/js/runtime-main.c1f63711.js.map",
+    "static/js/2.e1a0f1bd.chunk.js": "/SimpleReactCounterApp/static/js/2.e1a0f1bd.chunk.js",
+    "static/js/2.e1a0f1bd.chunk.js.map": "/SimpleReactCounterApp/static/js/2.e1a0f1bd.chunk.js.map",
+    "index.html": "/SimpleReactCounterApp/index.html",
+    "precache-manifest.8c10df9318f07f277b69d227fc0cf9f9.js": "/SimpleReactCounterApp/precache-manifest.8c10df9318f07f277b69d227fc0cf9f9.js",
+    "service-worker.js": "/SimpleReactCounterApp/service-worker.js",
+    "static/css/main.2ba6874d.chunk.css.map": "/SimpleReactCounterApp/static/css/main.2ba6874d.chunk.css.map",
+    "static/js/2.e1a0f1bd.chunk.js.LICENSE.txt": "/SimpleReactCounterApp/static/js/2.e1a0f1bd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SimpleReactCounterApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1f63711.js",
+    "static/js/2.e1a0f1bd.chunk.js",
+    "static/css/main.2ba6874d.chunk.css",
+    "static/js/main.88cf99ca.chunk.js"
+  ]
+}
